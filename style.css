@@ -1,26 +1,22 @@
-
-html {
+body {
   background: radial-gradient(lightpink, white);
 }
-header {
+
+body {
   font-size: 25px;
   font-style: oblique;
-  font-family: 'Goblin One', cursive;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
   margin: auto;
-  border: 2px red;
   padding: 10px;
   width: 50%;
 }
-img {
-  
-}
+
 
 .my-info {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: large;
   margin: auto;
   width: 30%;
-  border: 2px red;
   padding: 10px;
 }
